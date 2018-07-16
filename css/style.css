@@ -1,1 +1,10 @@
 /* add CSS class and element and selectors here */
+
+body {
+      background-color: teal;
+      font-size: 100%;
+      border: dotted;
+      color: #000000;
+      text-shadow: 1px 1px #000000;
+      text-align: center
+    }
